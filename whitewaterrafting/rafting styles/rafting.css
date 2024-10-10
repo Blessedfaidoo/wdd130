@@ -532,7 +532,7 @@ footer a:hover {
     background-color: var(--nav-hover-background-color);
 }
 
-footer img {
-    max-width: 30px;
+footer img {max-width: 30px;
     height: auto;
 }
+    
