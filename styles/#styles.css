@@ -1,11 +1,11 @@
 *margin{
     border: 1px solid steelblue;
-    padding: 3px;  
+    padding: 2px;  
     box-shadow: 0 0 30px gray;
 }
 
 p{
-    padding: 0;
+    padding: 10px;
 }
 
 aside{
@@ -35,4 +35,17 @@ footer{
     margin-top: 15px;
     border-top: 1px solid #000;
     text-align: center;
+}
+
+nav{
+    background-color: steelblue;
+    padding: 10px;
+}
+
+img{
+    width: 150px;
+    height: auto;
+    border: 1px solid steelblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
 }
