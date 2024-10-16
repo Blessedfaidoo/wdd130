@@ -223,6 +223,7 @@ display: flex;
 justify-content: center;
 color: var(--nav-hover-background-color);
 }
+
 .adventures {
 display: grid;
 grid-template-columns: repeat(3, 1fr);
